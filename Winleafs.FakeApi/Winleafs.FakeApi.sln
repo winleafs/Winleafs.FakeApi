@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winleafs.FakeApi", "Winleafs.FakeApi\Winleafs.FakeApi.csproj", "{2907D217-4D56-4916-AB3A-91FC73F727A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winleafs.Models", "Winleafs.Models\Winleafs.Models.csproj", "{B1DE9209-AB45-4ADD-95E8-E831B7D9F332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2907D217-4D56-4916-AB3A-91FC73F727A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2907D217-4D56-4916-AB3A-91FC73F727A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2907D217-4D56-4916-AB3A-91FC73F727A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DE9209-AB45-4ADD-95E8-E831B7D9F332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DE9209-AB45-4ADD-95E8-E831B7D9F332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DE9209-AB45-4ADD-95E8-E831B7D9F332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DE9209-AB45-4ADD-95E8-E831B7D9F332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
